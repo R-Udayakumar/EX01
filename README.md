@@ -31,7 +31,7 @@ Consider a university database system designed to manage information about stude
 
 ## ER Diagram :
 
-![image](https://github.com/Mena-Rossini/DBMS_EX_01/assets/102855266/38a30c37-0551-4ca0-accd-586a717e82ea)
+![image](https://github.com/R-Udayakumar/EX01/assets/118708024/3418ab18-66b8-4e8f-9f4e-d7acd842e344)
 
 ## Explanation :
 - **Entities:**
