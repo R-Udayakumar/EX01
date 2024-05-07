@@ -1,5 +1,5 @@
-# DBMS_EX_01
-# Date : 20/02/24
+# EX No : 01
+# Date : 20-02-24
 # AIM: 
 To analyze the problem and come with the entities in it and identify the constraints in creating the database.
 
@@ -167,4 +167,5 @@ The Hospital Management System is a tailored operational model for healthcare in
   - Designed relationships with appropriate cardinalities and participation constraints to accurately represent the associations between appointments, billing, payments, patients, doctors, and departments.
 
 # Result :
-Thus, we analyzed the problem and come with the entities in it and identified the constraints in creating the database.
+Thus, To analyze the problem and come with the entities in it and identify the constraints in creating the database was executed successfully.
+
